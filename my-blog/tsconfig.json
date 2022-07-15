@@ -19,7 +19,9 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
-    "pages/posts/first-post.js"
+    "pages/posts/first-post.js",
+    "pages/_app.js",
+    "pages/index.js"
   ],
   "exclude": ["node_modules"]
 }
